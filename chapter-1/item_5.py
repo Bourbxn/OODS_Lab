@@ -1,3 +1,7 @@
+'''
+สนุกไปกับการวาดรุป(3)
+'''
+
 def odd_list(al):
     new_odd_list = []
     for i in al:

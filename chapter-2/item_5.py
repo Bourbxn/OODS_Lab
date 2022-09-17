@@ -1,3 +1,7 @@
+'''
+ต่อคำหรรษา
+'''
+
 class TorKham:
 	def __init__(self):
 		self.wordList = []

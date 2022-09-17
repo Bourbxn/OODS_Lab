@@ -1,3 +1,7 @@
+'''
+Basic Queue
+'''
+
 class Queue():
     def __init__(self, ls = None):
         self.queue = []

@@ -1,3 +1,6 @@
+'''
+BMI Calculate
+'''
 listNum = list(map(float,input("Enter your High and Weight : ").split()))
 bmi = listNum[1]/(listNum[0]**2)
 if(bmi<18.5):

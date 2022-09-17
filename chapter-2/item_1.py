@@ -1,3 +1,6 @@
+'''
+Simple OOP Calculator
+'''
 class Calculator :
 
     def __init__(self,var):

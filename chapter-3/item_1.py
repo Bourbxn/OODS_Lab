@@ -1,3 +1,7 @@
+'''
+รู้จักกับ STACK
+'''
+
 class Stack:
 	def __init__(self):
 		self.stack = []

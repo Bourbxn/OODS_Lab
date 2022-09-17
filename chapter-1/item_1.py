@@ -1,3 +1,6 @@
+'''
+Rabbit & Turtle & Fly
+'''
 print("*** Rabbit & Turtle ***")
 listNum = list(map(float,input("Enter Input : ").split()))
 d = listNum[0]

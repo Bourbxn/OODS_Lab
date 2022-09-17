@@ -1,3 +1,7 @@
+'''
+Postfix Calculator
+'''
+
 class Stack():
     def __init__(self, ls = None):
         self.stack = []

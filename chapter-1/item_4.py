@@ -1,3 +1,6 @@
+'''
+function
+'''
 num = int(input("Enter Input : "))
 for i in range(num+1):
 	print("."*(num-i+1),end="")

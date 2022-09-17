@@ -1,3 +1,7 @@
+'''
+New Range
+'''
+
 def rangeFn(end,start=0,step=1):
 	rangeList = []
 	loop = int((end-start+1)/step)
