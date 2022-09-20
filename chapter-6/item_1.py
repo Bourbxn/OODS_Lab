@@ -1,3 +1,6 @@
+'''
+print N
+'''
 def print1ToN(n):
     if n>0:
         if n-1>0:

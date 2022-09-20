@@ -1,3 +1,6 @@
+'''
+วาดภาพแสนสุข
+'''
 def staircase(n,r):
     if n>0:
         return '_'*(n-1) + '#'*(r-n+1) + '\n' + staircase(n-1,r)

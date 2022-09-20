@@ -1,3 +1,6 @@
+'''
+( 2^(input) ) - 1
+'''
 def comb_bin(n,z):
     if n>0:
         comb_bin(n-1,z)

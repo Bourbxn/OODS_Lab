@@ -1,3 +1,6 @@
+'''
+Palindrome
+'''
 def isPalindrome(str, i):
     if(i > len(str)/2):
        return True

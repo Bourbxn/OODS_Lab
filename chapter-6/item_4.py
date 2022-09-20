@@ -1,3 +1,6 @@
+'''
+Perket
+'''
 def comb(l, n):
     if n == 0:
         return [[]]
