@@ -8,9 +8,9 @@ def comb_bin(n,z):
         print("Only Positive & Zero Number ! ! !")
 
 def main():
-    n = int(input("Enter Number : "))
-    z = len(str(bin(2**n-1)[2:])) if n>=0 else 0
-    comb_bin(2**n-1,z)
+    n = 2**int(input("Enter Number : "))-1
+    z = len(str(bin(n)[2:])) if n>=0 else 0
+    comb_bin(n,z)
 
 if __name__ == '__main__':
     main()
