@@ -4,8 +4,12 @@
 
 Object Oriented Data Structures (01076109) Computer Engineering, KMITL
 
-+ ![Python1]("https://github.com/Bourbxn/oods-lab/tree/main/chapter-1")
-  - boss
++ <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-1">Python1</a>
+  - <a href="https://github.com/Bourbxn/oods-lab/blob/main/chapter-1/item_1.py">Rabbit & Turtle & Fly</a>
+  - <a href="https://github.com/Bourbxn/oods-lab/blob/main/chapter-1/item_2.py">BMI Calculate</a>
+  - <a href="https://github.com/Bourbxn/oods-lab/blob/main/chapter-1/item_3.py">Election</a>
+  - <a href="https://github.com/Bourbxn/oods-lab/blob/main/chapter-1/item_4.py">function</a>
+  - <a href="https://github.com/Bourbxn/oods-lab/blob/main/chapter-1/item_5.py">สนุกไปกับการวาดรุป(3)</a>
 + <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-2">Python2</a>
 + <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-3">Stack</a>
 + <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-4">Queue</a>
