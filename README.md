@@ -4,7 +4,7 @@
 
 Object Oriented Data Structures (01076109) Computer Engineering, KMITL
 
-## List for all chapters.
+## List for all Chapters
 
 + <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-1">Python1</a>
   - <a href="https://github.com/Bourbxn/oods-lab/blob/main/chapter-1/item_1.py">Rabbit & Turtle & Fly</a>
