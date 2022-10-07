@@ -4,7 +4,7 @@
 
 Object Oriented Data Structures (01076109) Computer Engineering, KMITL
 
-+ <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-1">Python1</a>
++ [Python1]("https://github.com/Bourbxn/oods-lab/tree/main/chapter-1")
   - boss
 + <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-2">Python2</a>
 + <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-3">Stack</a>
