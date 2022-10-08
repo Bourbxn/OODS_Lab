@@ -1,3 +1,7 @@
+'''
+รู้จักกับ Binary Search Tree
+'''
+
 class Node:
     def __init__(self, data):
         self.data = data

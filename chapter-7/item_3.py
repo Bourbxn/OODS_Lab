@@ -1,3 +1,7 @@
+'''
+พ่อจ๋าอยู่ไหน
+'''
+
 class Node:
     def __init__(self, data): 
         self.data = data  
