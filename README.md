@@ -45,5 +45,5 @@ Object Oriented Data Structures (01076109) Computer Engineering, KMITL<br>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-7/item_2.py">หาค่า Min และ Max</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-7/item_3.py">พ่อจ๋าอยู่ไหน</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-7/item_4.py">สนุกไปกับ Binary Search Tree</a>
-  - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-7/item_4.py">ส่วนไหน</a>
+  - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-7/item_5.py">ส่วนไหน</a>
 + More Coming Soon...
