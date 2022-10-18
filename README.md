@@ -49,7 +49,7 @@ Object Oriented Data Structures (01076109) Computer Engineering, KMITL<br>
 + Tree 2 (AVL)
   - Huffman Encoding
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-8/item_2.py">AVL ( Insert Only )</a>
-  - Ranking
+  - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-8/item_3.py">Ranking</a>
   - Mondstadt
   - ตรวจสอบว่าเป็น binary search tree หรือไม่
 + Sorting
