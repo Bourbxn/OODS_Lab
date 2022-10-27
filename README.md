@@ -46,12 +46,17 @@ Object Oriented Data Structures (01076109) Computer Engineering, KMITL<br>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-7/item_3.py">พ่อจ๋าอยู่ไหน</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-7/item_4.py">สนุกไปกับ Binary Search Tree</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-7/item_5.py">ส่วนไหน</a>
-+ Tree 2 (AVL)
++ <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-8">Tree 2 (AVL)</a>
   - Huffman Encoding
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-8/item_2.py">AVL ( Insert Only )</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-8/item_3.py">Ranking</a>
   - Mondstadt
-  - ตรวจสอบว่าเป็น binary search tree หรือไม่
-+ Sorting
+  - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-8/item_5.py">ตรวจสอบว่าเป็น binary search tree หรือไม่</a>
++ <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-9">Sorting</a>
+  - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-9/item_1.py">bubble sort [recursive]</a>
+  - Straight Selection Sort [recursive]
+  - insertion sort [recursive]
+  - Find the Running Median
+  - Sort Subset
 + Searching
 + Graph (Optional)
