@@ -47,7 +47,7 @@ Object Oriented Data Structures (01076109) Computer Engineering, KMITL<br>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-7/item_4.py">สนุกไปกับ Binary Search Tree</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-7/item_5.py">ส่วนไหน</a>
 + <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-8">Tree 2 (AVL)</a>
-  - Huffman Encoding
+  - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-8/item_1.py">Huffman Encoding</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-8/item_2.py">AVL ( Insert Only )</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-8/item_3.py">Ranking</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-8/item_4.py">Mondstadt</a>
