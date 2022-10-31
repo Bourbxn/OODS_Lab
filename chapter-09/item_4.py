@@ -1,7 +1,7 @@
 '''
 Find the Running Median
 '''
-def bubble_sort(l):
+def bubble_sort(l: list) -> list:
     if len(l) <= 1:
         return l
     if len(l) == 2:
@@ -22,7 +22,7 @@ def median(l: list) -> float:
         return l[idx]
     return (l[idx]+l[idx-1])/2
 
-def run_list(l: list):
+def run_list(l: list) -> None:
     for i in range(1,len(l)+1):
         print(f"list = {l[:i]} : median = {median(l[:i]):.1f}")
 
