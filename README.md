@@ -56,7 +56,7 @@ Object Oriented Data Structures (01076109) Computer Engineering, KMITL<br>
 + <b><a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-9">Sorting</a></b>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-9/item_1.py">bubble sort [recursive]</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-9/item_2.py">Straight Selection Sort [recursive]</a>
-  - insertion sort [recursive]
+  - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-9/item_3.py">insertion sort [recursive]</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-9/item_4.py">Find the Running Median</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-9/item_5.py">Sort Subset</a>
 + Searching
