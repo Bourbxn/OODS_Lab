@@ -59,5 +59,10 @@ Object Oriented Data Structures (01076109) Computer Engineering, KMITL<br>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-09/item_3.py">insertion sort [recursive]</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-09/item_4.py">Find the Running Median</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-09/item_5.py">Sort Subset</a>
-+ Searching
++ <b><a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-10">Searching</a></b>
+  - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-10/item_1.py">หัดใช้ Binary Search</a>
+  - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-10/item_2.py">First Greater Value</a>
+  - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-10/item_3.py">Fun with hashing</a>
+  - Rehashing
+  - กล่องสินค้า
 + Graph (Optional)
