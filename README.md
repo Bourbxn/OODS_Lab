@@ -63,6 +63,6 @@ Object Oriented Data Structures (01076109) Computer Engineering, KMITL<br>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-10/item_1.py">หัดใช้ Binary Search</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-10/item_2.py">First Greater Value</a>
   - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-10/item_3.py">Fun with hashing</a>
-  - Rehashing
-  - กล่องสินค้า
+  - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-10/item_4.py">Rehashing</a>
+  - <a href="https://github.com/Bourbxn/oods-lab/tree/main/chapter-10/item_5.py">กล่องสินค้า</a>
 + Graph (Optional)
