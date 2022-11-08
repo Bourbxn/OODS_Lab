@@ -1,6 +1,6 @@
 # Object Oriented Data Structures Lab
 
-***64010090 - Jakkapat Paijit*** horny
+***64010090 - Jakkapat Paijit*** 
 
 Object Oriented Data Structures (01076109) Computer Engineering, KMITL<br>
 
